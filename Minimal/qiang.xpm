@@ -1,0 +1,18 @@
+/*  XPM ref:
+    https://blog.csdn.net/gohome520/article/details/6798902
+*/
+static const char *qiang_xpm[] = {
+	/* Values */
+	"48 4 2 1",
+
+	/* Colors */
+	//"a c #ffffff",
+	"a c #ff0000",
+	"b c #000000",
+
+	/* Pixels */
+	"abaabaababaaabaabababaabaabaababaabaaababaabaaab",
+	"abaabaababaaabaabababaabaabaababaabaaababaabaaab",
+	"abaabaababaaabaabababaabaabaababaabaaababaabaaab",
+	"abaabaababaaabaabababaabaabaababaabaaababaabaaab",
+};
